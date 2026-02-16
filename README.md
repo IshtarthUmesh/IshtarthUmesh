@@ -360,15 +360,35 @@ flowchart LR
 
 ---
 
-## 📊 &nbsp; GitHub Stats
+## 📊 &nbsp; Skill Depth — Honest & Verifiable
 
-<div align="center">
+```
+ANALYTICS & QUERYING
+  SQL (Advanced)              ████████████████████  100%   3 yrs · KPMG production use
+  Python                      ████████████████░░░░   80%   Automation · Pandas · Award winner
+  PySpark                     ████████████░░░░░░░░   60%   KPMG ETL pipelines
+  DAX / Power Query           ████████████████░░░░   80%   5+ production dashboards
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshtarthUmesh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1db954&icon_color=00b4d8&text_color=c9d1d9&count_private=true)](https://github.com/IshtarthUmesh)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshtarthUmesh&layout=compact&hide_border=true&bg_color=0d1117&title_color=1db954&text_color=c9d1d9)](https://github.com/IshtarthUmesh)
+BUSINESS INTELLIGENCE
+  Power BI                    ████████████████████  100%   5+ exec dashboards · 20+ leaders
+  Tableau                     ████████████████░░░░   80%   Operational reporting
+  Advanced Excel              ████████████████████  100%   Financial modelling · OPEX
+  Alteryx                     ████████████░░░░░░░░   60%   ETL workflow design
 
-</div>
+CLOUD & PLATFORMS
+  Microsoft Azure             ████████████████░░░░   80%   Certified · DP-900 + AI cert
+  SAP                         ████████████░░░░░░░░   60%   Enterprise ERP workflows
+  Oracle ERP                  ████████████░░░░░░░░   60%   Data pipeline integration
+
+BA / PA METHODOLOGY
+  Agile / Scrum               ████████████████████  100%   Led sprints across 5 departments
+  Requirements (BRD/FRD)      ████████████████████  100%   Delivered & signed off at Big 4
+  Process Mapping (BPMN)      ████████████████████  100%   End-to-end process re-engineering
+  UAT Coordination            ████████████████████  100%   Reduced audit time 15%
+  Customer Discovery / JTBD   ████████████░░░░░░░░   65%   FreshStart · Tufts MEM project
+  Product Analytics           ████████████░░░░░░░░   65%   KPI frameworks · Funnel design
+  Financial Modelling         ████████████░░░░░░░░   65%   Pro Forma · Tufts MEM project
+```
 
 ---
 
