@@ -1,230 +1,255 @@
 <div align="center">
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=11&pause=99999&color=1DB954&center=true&vCenter=true&width=500&lines=%E2%96%88+loading+profile.....+done+%E2%96%88)](https://git.io/typing-svg)
+
+<br/>
+
 ```
-██╗███████╗██╗  ██╗████████╗ █████╗ ██████╗ ████████╗██╗  ██╗
-██║██╔════╝██║  ██║╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
-██║███████╗███████║   ██║   ███████║██████╔╝   ██║   ███████║
-██║╚════██║██╔══██║   ██║   ██╔══██║██╔══██╗   ██║   ██╔══██║
-██║███████║██║  ██║   ██║   ██║  ██║██║  ██║   ██║   ██║  ██║
-╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-                    U  M  E  S  H
+  ██╗    ███████╗██╗  ██╗████████╗ █████╗ ██████╗ ████████╗██╗  ██╗
+  ██║    ██╔════╝██║  ██║╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
+  ██║    ███████╗███████║   ██║   ███████║██████╔╝   ██║   ███████║
+  ██║    ╚════██║██╔══██║   ██║   ██╔══██║██╔══██╗   ██║   ██╔══██║
+  ██║    ███████║██║  ██║   ██║   ██║  ██║██║  ██║   ██║   ██║  ██║
+  ██║    ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+  ██║       U  M  E  S  H
+  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=1DB954&center=true&vCenter=true&width=800&lines=Product+Analyst+%7C+Strategy+%26+Ops+%7C+Business+Analyst;Big+4+KPMG+%7C+Tufts+MEM+%7C+Boston%2C+MA;%241M%2B+identified+%C2%B7+99%25+accuracy+%C2%B7+2%C3%97+award+winner;I+don't+just+report+data.+I+make+it+argue+your+case.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=1200&color=FFFFFF&center=true&vCenter=true&width=780&lines=✈️+Aerospace+Engineer+who+chose+data+over+jet+fuel.;💰+%241M%2B+found.+99%25+accurate.+2×+award+winner.;📊+Business+%26+Product+Analyst+%7C+Strategy+%26+Ops;🏢+KPMG+Big+4+·+3+Years+·+Bengaluru+→+Boston;🎓+Master+in+Engineering+Management+%40+Tufts)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishtarth-umesh-497582170/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishtarthumesh06@gmail.com)
-[![Phone](https://img.shields.io/badge/📞_339--242--8713-1DB954?style=for-the-badge)](tel:+13392428713)
-![Views](https://komarev.com/ghpvc/?username=IshtarthUmesh&color=1db954&style=for-the-badge&label=Profile+Views)
+[![Phone](https://img.shields.io/badge/339·242·8713-1DB954?style=for-the-badge&logo=googlemeet&logoColor=white)](tel:+13392428713)
+![Views](https://komarev.com/ghpvc/?username=IshtarthUmesh&color=1db954&style=for-the-badge&label=👁️+Views)
 
 <br/>
 
-![Hiring](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Product_Analyst_·_Strategy_%26_Ops_·_Business_Analyst-1db954?style=for-the-badge)
+![Badge](https://img.shields.io/badge/▶_OPEN_TO_WORK-Business_Analyst_·_Product_Analyst_·_Strategy_%26_Ops-1DB954?style=for-the-badge)
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   "Between every dataset and every business decision there is a gap.      ║
-║    I live in that gap — and I make it smaller every time."                ║
-║                                                                           ║
-║                                                       — Ishtarth Umesh   ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+  ╭─────────────────────────────────────────────────────────────────────────╮
+  │                                                                         │
+  │   I used to calculate thrust vectors for aircraft.                     │
+  │   Now I calculate cost vectors for businesses.                         │
+  │                                                                         │
+  │   The math is the same. The altitude is different.             ✈️ → 📊  │
+  │                                                                         │
+  ╰─────────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
+<br/>
+
 ---
 
-## ⚡ &nbsp; Who I Am — In Python
+## `$ whoami`
 
 ```python
-ishtarth = {
-    "targeting"   : ["Product Analyst", "Strategy & Operations", "Business Analyst"],
-    "trained_by"  : ["KPMG Big 4 (3 yrs)", "Tufts University MEM"],
-    "edge"        : "Aerospace → Big 4 → Tufts. I see systems, not just spreadsheets.",
-    "impact"      : {
-        "cost_savings"   : "$1,000,000+",
-        "audit_accuracy" : "99%",
-        "error_reduction": "90%",
-        "etl_speedup"    : "30% faster",
-        "awards"         : ["Client Service Excellence", "Rising Star"],
-    },
-    "stack"       : ["SQL", "Python", "Power BI", "Tableau", "Azure", "PySpark", "Excel"],
-    "methods"     : ["Agile/Scrum", "BPMN", "BABOK", "UAT", "Waterfall", "OKRs", "JTBD"],
-    "location"    : "Boston, MA 🇺🇸  |  Open to relocation",
-    "status"      : "🟢 Actively interviewing — reach out anytime",
+ishtarth_umesh = {
+
+    # ── THE BASICS ──────────────────────────────────────────────────────
+    "name"         :  "Ishtarth Umesh",
+    "based_in"     :  "Boston, MA 🇺🇸  (originally Bengaluru 🇮🇳)",
+    "open_to"      :  ["Business Analyst", "Product Analyst", "Strategy & Ops"],
+
+    # ── THE STORY ───────────────────────────────────────────────────────
+    "chapter_1"    :  "Aerospace Engineer — BMS College of Engineering (2018–22)",
+    "chapter_2"    :  "Business Analyst — KPMG Big 4, 3 years (2022–25)",
+    "chapter_3"    :  "MEM Candidate — Tufts University, Boston (2025–27)",
+
+    # ── THE NUMBERS ─────────────────────────────────────────────────────
+    "cost_savings" :  "$1,000,000+  identified via ETL & process optimisation",
+    "accuracy"     :  "99%  audit accuracy across 5 operational departments",
+    "errors_cut"   :  "90%  reduction in data-related discrepancies",
+    "etl_speed"    :  "30%  faster ETL processing  →  🏅 Award winning",
+    "exec_reach"   :  "20+  senior leaders empowered via real-time dashboards",
+
+    # ── THE AWARDS ──────────────────────────────────────────────────────
+    "awards"       :  ["🏅 Client Service Excellence", "⭐ Rising Star — KPMG"],
+
+    # ── THE TOOLS ───────────────────────────────────────────────────────
+    "daily_stack"  :  ["SQL", "Python", "Power BI", "Tableau", "Azure", "PySpark"],
+    "methods"      :  ["Agile/Scrum", "BPMN", "BABOK", "UAT", "JTBD", "OKRs"],
+
+    # ── THE EDGE ────────────────────────────────────────────────────────
+    "superpower"   :  "I translate what the data says into what the business does.",
+    "fun_fact"     :  "Aerospace → Analytics. Same systems thinking. Better coffee.",
+
 }
 ```
 
----
-
-## 🏆 &nbsp; Impact That Speaks Before I Do
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   💰 $1M+          📊 99%          📉 90%          ⚡ 30%          🕐 24hrs  │
-│   Cost Savings     Audit           Error           Faster ETL      Faster    │
-│   Identified       Accuracy        Reduction       Processing      Insights  │
-│                                                                              │
-│   ⏱️ 15%           😊 +20%         👥 20+          📈 +8%          🏅 2×     │
-│   Audit Time       Stakeholder     Exec Leaders    Operational     Award     │
-│   Saved            Satisfaction    Empowered       Efficiency      Winner    │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
 ---
 
-## 🎯 &nbsp; Roles I'm Built For — And Why
+<br/>
+
+## `$ cat impact.log`
+
+<br/>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                     │
-│   🔷  PRODUCT ANALYST                                                               │
-│   ──────────────────────────────────────────────────────────────────────────────   │
-│   I've designed KPI frameworks, built executive dashboards used by 20+ leaders,    │
-│   run data validation at scale, and know how to translate user behaviour into      │
-│   product decisions. KPMG taught me to quantify everything. Tufts is teaching     │
-│   me the strategy layer on top.                                                    │
-│                                                                                     │
-│   🔶  STRATEGY & OPERATIONS                                                         │
-│   ──────────────────────────────────────────────────────────────────────────────   │
-│   $1M+ in cost savings wasn't luck — it was process mapping, ETL architecture,    │
-│   and relentless OPEX analysis. I've led cross-functional Agile programmes,       │
-│   owned change management, and delivered 24-hour faster insight pipelines.        │
-│   Strategy is just analysis with consequences. I'm comfortable with both.         │
-│                                                                                     │
-│   🔹  BUSINESS ANALYST                                                              │
-│   ──────────────────────────────────────────────────────────────────────────────   │
-│   BRDs. FRDs. UAT. BPMN. RACI. BABOK. Not just words on my resume —              │
-│   these are artifacts I've shipped, signed, and handed to dev teams.              │
-│   Big 4 BA work is the hardest version of this job. Everything else is easier.   │
-│                                                                                     │
-└─────────────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   KPMG GLOBAL DELIVERY CENTER  |  Business Analyst  |  Aug 2022 – Jul 2025  ║
+║                                                                              ║
+╠══════════╦═══════════════════════════════════╦══════════════════════════════╣
+║  METRIC  ║  WHAT I DID                       ║  RESULT                      ║
+╠══════════╬═══════════════════════════════════╬══════════════════════════════╣
+║  💰 Cost  ║  Agile pipeline design +           ║  $1,000,000+ savings         ║
+║          ║  end-to-end process mapping        ║  identified                  ║
+╠══════════╬═══════════════════════════════════╬══════════════════════════════╣
+║  ✅ Data  ║  Pipeline architecture +           ║  99% audit accuracy          ║
+║          ║  data governance across 5 depts    ║  maintained                  ║
+╠══════════╬═══════════════════════════════════╬══════════════════════════════╣
+║  📉 Error ║  End-to-end validation             ║  90% reduction in            ║
+║          ║  framework built & deployed        ║  data discrepancies          ║
+╠══════════╬═══════════════════════════════════╬══════════════════════════════╣
+║  ⚡ Speed ║  ETL pipeline re-architecture      ║  30% faster processing       ║
+║          ║  + full UAT automation             ║  🏅 Award  |  15% audit gain  ║
+╠══════════╬═══════════════════════════════════╬══════════════════════════════╣
+║  😊 Trust ║  Change management +               ║  +20% stakeholder            ║
+║          ║  ETL reliability programme         ║  satisfaction                ║
+╠══════════╬═══════════════════════════════════╬══════════════════════════════╣
+║  📊 Vis.  ║  5+ SQL + PySpark dashboards for   ║  20+ leaders with live KPIs  ║
+║          ║  senior leadership                 ║  → avg +8% efficiency        ║
+╠══════════╬═══════════════════════════════════╬══════════════════════════════╣
+║  🕐 Time  ║  Enterprise Data Mgmt System       ║  Business insights           ║
+║          ║  redesigned end-to-end             ║  24 hours faster             ║
+╚══════════╩═══════════════════════════════════╩══════════════════════════════╝
 ```
 
 </div>
 
----
-
-## 📂 &nbsp; Project Portfolio — Real Work, Public & Verifiable
-
-> *Three projects targeting exactly the roles above. Built with real public data. Pinned on this profile.*
+<br/>
 
 ---
 
-### &nbsp; 🗂️ 01 — SQL + Power BI: Retail Operations Case Study
+<br/>
 
-![Status](https://img.shields.io/badge/Status-🔨_In_Build-f9ca24?style=flat-square)
-![Type](https://img.shields.io/badge/Target_Role-Product_Analyst_·_Strategy_%26_Ops-0077b5?style=flat-square)
+## `$ ls projects/`
 
-**What it is:** End-to-end analytics case study on a public retail / e-commerce dataset (Olist Brazil / AdventureWorks). Demonstrates the full PA workflow: data cleaning → SQL modelling → KPI design → Power BI dashboard → insight narrative.
+<br/>
 
-**What it shows a recruiter:**
+> 🔨 &nbsp; Three projects. Real data. Public repos. Built to prove the work, not describe it.
+
+<br/>
+
 ```
-✔  I define KPIs before I build dashboards — not after
-✔  SQL is not a tool I "know" — it's how I think about data structure
-✔  Power BI dashboards designed for decisions, not decoration
-✔  Written insight narrative = I communicate findings, not just visuals
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │  📁 /retail-ops-analytics          [ SQL + Power BI Case Study ]        │
+  │  📁 /data-validation-engine        [ Python Automation ]                │
+  │  📁 /freshstart-food-insights      [ Customer Discovery ]               │
+  └─────────────────────────────────────────────────────────────────────────┘
 ```
-**Stack:** `PostgreSQL` · `Power BI` · `DAX` · `Python (Pandas)` · `GitHub`
+
+<br/>
+
+### &nbsp; 📁 &nbsp; `retail-ops-analytics/`
+
+![Status](https://img.shields.io/badge/Status-🔨_Building-f9ca24?style=flat-square)
+![Role](https://img.shields.io/badge/For-Product_Analyst_·_Strategy_%26_Ops-0077b5?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-SQL_·_Power_BI_·_DAX_·_Python-4479A1?style=flat-square)
+
+**What it proves:** End-to-end Product Analyst workflow on the Olist Brazil public dataset.
+Not "I made a dashboard." The repo documents *why* each KPI was chosen, *what question* each SQL query answers, and *what decision* the dashboard is designed to trigger.
+
+```
+  /01-problem-brief        ← stakeholder questions + success metrics defined first
+  /02-sql-models           ← 25+ annotated queries, one business question per file
+  /03-kpi-framework        ← KPIs chosen before Power BI is opened, not after
+  /04-powerbi-dashboard    ← packaged .pbix + screenshot walkthrough
+  /05-insight-memo.pdf     ← the one-pager that gets read in the exec meeting
+```
+
+<br/>
+
+### &nbsp; 📁 &nbsp; `data-validation-engine/`
+
+![Status](https://img.shields.io/badge/Status-🔨_Building-f9ca24?style=flat-square)
+![Role](https://img.shields.io/badge/For-Business_Analyst_·_Strategy_%26_Ops-e17055?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Python_·_Pandas_·_OpenPyXL_·_GitHub_Actions-3776AB?style=flat-square)
+
+**What it proves:** The Rising Star Award at KPMG came from automating exactly this.
+Open-source version: point at any CSV → validates data quality → flags anomalies → generates a formatted Excel report → ready to send to stakeholders. Built for analysts, documented for non-technical readers.
+
+```
+  /src/validator.py        ← core validation engine, fully commented
+  /src/report_builder.py   ← Excel output formatted for stakeholders
+  /tests/                  ← test suite with sample datasets
+  /README.md               ← explains the business problem, not just the code
+```
+
+<br/>
+
+### &nbsp; 📁 &nbsp; `freshstart-food-insights/`
+
+![Status](https://img.shields.io/badge/Status-🟡_In_Progress-1DB954?style=flat-square)
+![Role](https://img.shields.io/badge/For-Product_Analyst_·_Customer_Discovery-0077b5?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-JTBD_·_Thematic_Analysis_·_Insight_Synthesis-6c5ce7?style=flat-square)
+
+**What it proves:** Most BAs skip customer discovery. Product Analyst roles require it.
+This is a Tufts MEM live research project — end-to-end customer discovery identifying 80%+ of food adaptation challenges faced by newcomers. Delivered as a strategy memo with opportunity sizing.
+
+```
+  /research-design         ← interview guide + survey framework
+  /synthesis               ← thematic analysis, coded findings
+  /insight-report.pdf      ← the output: 70%+ adaptation improvement targeted
+```
+
+<br/>
 
 ---
 
-### &nbsp; 🗂️ 02 — Python Automation: Data Validation & Reporting Pipeline
+<br/>
 
-![Status](https://img.shields.io/badge/Status-🔨_In_Build-f9ca24?style=flat-square)
-![Type](https://img.shields.io/badge/Target_Role-Business_Analyst_·_Strategy_%26_Ops-e17055?style=flat-square)
+## `$ cat skills.matrix`
 
-**What it is:** Open-source version of the Python validation engine I built at KPMG — applied to a public dataset. Automates data quality checks, flags anomalies, and generates a formatted Excel report. Exactly the kind of automation that won me the Rising Star Award.
-
-**What it shows a recruiter:**
-```
-✔  I automate the painful parts of analysis — not just describe them
-✔  My KPMG award-winning approach is documented and reproducible
-✔  Clean, commented, production-readable Python code
-✔  README explains the business problem, not just the code
-```
-**Stack:** `Python` · `Pandas` · `OpenPyXL` · `Great Expectations` · `GitHub Actions`
-
----
-
-### &nbsp; 🗂️ 03 — FreshStart Food Insights: End-to-End Customer Discovery
-
-![Status](https://img.shields.io/badge/Status-🟡_In_Progress-1db954?style=flat-square)
-![Type](https://img.shields.io/badge/Target_Role-Product_Analyst_·_Strategy_%26_Ops-0077b5?style=flat-square)
-
-**What it is:** Full customer discovery research project (Tufts MEM). Interviews + survey synthesis identifying the top food adaptation challenges for people settling into new cities. Delivered as a written insight report with opportunity sizing.
-
-**What it shows a recruiter:**
-```
-✔  I understand users before I build solutions — JTBD / jobs-to-be-done
-✔  Customer discovery is a Product Analyst superpower most BAs skip
-✔  Findings: 80%+ of food challenges identified, 70%+ adaptation improvement targeted
-✔  Written like a strategy memo, not an academic paper
-```
-**Stack:** `Customer Interviews` · `Survey Design` · `Thematic Analysis` · `Insight Synthesis` · `Notion`
-
----
-
-## 🔁 &nbsp; How I Work — The Full Delivery Loop
-
-```mermaid
-flowchart LR
-    A(["👂 DISCOVER\nStakeholder interviews\nJTBD · Customer research"]) --> B(["📝 DEFINE\nBRD · FRD · PRD\nUser stories · OKRs"])
-    B --> C(["🗺️ MAP\nBPMN process flows\nGAP · SWOT · RACI"])
-    C --> D(["🔧 MODEL\nSQL · ETL · Python\nData architecture"])
-    D --> E(["✅ VALIDATE\nUAT · QA · A/B tests\nAcceptance criteria"])
-    E --> F(["📊 VISUALISE\nPower BI · Tableau\nKPI dashboards"])
-    F --> G(["💡 DELIVER\nExecutive narrative\nROI-backed decisions"])
-    G -.->|"🔁 Iterate & Improve"| A
-
-    style A fill:#0d1117,color:#1db954,stroke:#1db954,stroke-width:2px
-    style B fill:#0d1117,color:#0077b5,stroke:#0077b5,stroke-width:2px
-    style C fill:#0d1117,color:#00b4d8,stroke:#00b4d8,stroke-width:2px
-    style D fill:#0d1117,color:#e17055,stroke:#e17055,stroke-width:2px
-    style E fill:#0d1117,color:#a29bfe,stroke:#a29bfe,stroke-width:2px
-    style F fill:#0d1117,color:#f9ca24,stroke:#f9ca24,stroke-width:2px
-    style G fill:#0d1117,color:#fd79a8,stroke:#fd79a8,stroke-width:2px
-```
-
----
-
-## 🧠 &nbsp; Full Competency Matrix
+<br/>
 
 <div align="center">
 
-| 🔍 Discovery & Analysis | 📐 Delivery & Ops | 📊 Product & Data | 🤝 Strategy & People |
+| 🔍 &nbsp; Discovery | 📐 &nbsp; Delivery | 📊 &nbsp; Data & Product | 🤝 &nbsp; Strategy |
 |:---|:---|:---|:---|
-| Requirements Elicitation | Agile / Scrum | SQL (Advanced) | OKR Design & Alignment |
-| BRD / FRD / PRD Writing | Sprint Planning | Python + Pandas | C-Suite Storytelling |
-| User Story Writing | UAT Coordination | Power BI + DAX | Cross-Functional Leadership |
-| Jobs-to-be-Done (JTBD) | SDLC (Agile + Waterfall) | Tableau | Stakeholder Mapping |
-| Customer Discovery | RACI Matrix Design | PySpark | Change Management |
-| Gap & Impact Analysis | Release Management | Azure Data Services | Executive Presentations |
-| SWOT / Cost-Benefit | Risk & Dependency Mapping | ETL Pipeline Design | Workshop Facilitation |
-| Process Mapping (BPMN) | JIRA / Confluence | Alteryx + Excel | Competitive Analysis |
-| Root Cause Analysis | Roadmap Planning | Statistical Analysis | Go-to-Market Support |
-| KPI Framework Design | Data Quality Management | Forecasting Models | Vendor Management |
-| OPEX / Financial Analysis | A/B Test Design | SAP / Oracle ERP | Product Strategy |
-| Funnel Analysis | Backlog Grooming | Data Governance | BABOK Framework |
+| Requirements Elicitation | Agile / Scrum | SQL · Advanced | OKR Design & Alignment |
+| BRD · FRD · PRD Writing | Sprint Planning & Grooming | Python · Pandas · PySpark | C-Suite Storytelling |
+| User Stories + Criteria | UAT Coordination | Power BI + DAX | Cross-Functional Leadership |
+| Jobs-to-be-Done (JTBD) | SDLC — Agile & Waterfall | Tableau | Change Management |
+| Customer Discovery | RACI Matrix Design | Azure Data Services | Stakeholder Mapping |
+| Gap & Impact Analysis | Release Management | ETL Pipeline Design | Executive Presentations |
+| SWOT · Cost-Benefit | Risk & Dependency Mapping | Alteryx · Excel | Go-to-Market Support |
+| Process Mapping (BPMN) | JIRA · Confluence | Statistical Analysis | Competitive Analysis |
+| Root Cause Analysis | Backlog Grooming | Forecasting & OPEX | Product Strategy |
+| KPI Framework Design | Data Quality Management | A/B Test Design | BABOK Framework |
 
 </div>
 
+<br/>
+
 ---
 
-## 🛠️ &nbsp; Tech Stack
+<br/>
+
+## `$ cat stack.conf`
+
+<br/>
 
 <div align="center">
 
@@ -248,7 +273,7 @@ flowchart LR
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**[ DELIVERY TOOLS ]**
+**[ DELIVERY ]**
 
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
@@ -257,78 +282,122 @@ flowchart LR
 
 **[ FRAMEWORKS ]**
 
-![Agile](https://img.shields.io/badge/Agile%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Waterfall](https://img.shields.io/badge/Waterfall%20SDLC-555?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Waterfall](https://img.shields.io/badge/Waterfall_SDLC-555?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/BPMN-e17055?style=for-the-badge)
 ![BABOK](https://img.shields.io/badge/BABOK-6c5ce7?style=for-the-badge)
-![JTBD](https://img.shields.io/badge/Jobs--to--be--Done-1db954?style=for-the-badge)
-![OKRs](https://img.shields.io/badge/OKR%20Framework-f9ca24?style=for-the-badge)
+![JTBD](https://img.shields.io/badge/JTBD-1DB954?style=for-the-badge)
+![OKRs](https://img.shields.io/badge/OKRs-f9ca24?style=for-the-badge)
 
 </div>
 
+<br/>
+
 ---
 
-## 💼 &nbsp; KPMG — Where The Numbers Came From
+<br/>
+
+## `$ cat delivery.flow`
+
+<br/>
+
+```mermaid
+flowchart LR
+    A(["👂\nDISCOVER\nInterviews · JTBD\nContext mapping"]) --> B(["📝\nDEFINE\nBRD · FRD · PRD\nUser stories · OKRs"])
+    B --> C(["🗺️\nMAP\nBPMN flows\nGAP · RACI · SWOT"])
+    C --> D(["🔧\nMODEL\nSQL · ETL · Python\nData architecture"])
+    D --> E(["✅\nVALIDATE\nUAT · A/B tests\nQA · sign-off"])
+    E --> F(["📊\nVISUALISE\nPower BI · Tableau\nKPI dashboards"])
+    F --> G(["💡\nDELIVER\nExec narrative\nROI-backed decisions"])
+    G -.->|"🔁 iterate"| A
+
+    style A fill:#111,color:#1DB954,stroke:#1DB954,stroke-width:2px
+    style B fill:#111,color:#58A6FF,stroke:#58A6FF,stroke-width:2px
+    style C fill:#111,color:#58A6FF,stroke:#58A6FF,stroke-width:2px
+    style D fill:#111,color:#e17055,stroke:#e17055,stroke-width:2px
+    style E fill:#111,color:#a29bfe,stroke:#a29bfe,stroke-width:2px
+    style F fill:#111,color:#f9ca24,stroke:#f9ca24,stroke-width:2px
+    style G fill:#111,color:#fd79a8,stroke:#fd79a8,stroke-width:2px
+```
+
+<br/>
+
+---
+
+<br/>
+
+## `$ cat proficiency.log`
+
+<br/>
+
+```
+  ANALYTICS & QUERYING
+  ├─ SQL  ·····················  ████████████████████  100%  3yrs production · $1M impact
+  ├─ Python  ··················  ████████████████░░░░   80%  automation · award winning
+  ├─ PySpark  ·················  ████████████░░░░░░░░   60%  KPMG ETL pipelines
+  └─ DAX / Power Query  ·······  ████████████████░░░░   80%  5+ production dashboards
+
+  BUSINESS INTELLIGENCE
+  ├─ Power BI  ················  ████████████████████  100%  5+ exec dashboards · 20+ leaders
+  ├─ Tableau  ·················  ████████████████░░░░   80%  operational reporting
+  ├─ Advanced Excel  ··········  ████████████████████  100%  financial modelling · OPEX
+  └─ Alteryx  ·················  ████████████░░░░░░░░   60%  ETL workflow design
+
+  CLOUD & PLATFORMS
+  ├─ Microsoft Azure  ·········  ████████████████░░░░   80%  certified · DP-900 + AI
+  ├─ SAP  ·····················  ████████████░░░░░░░░   60%  enterprise ERP
+  └─ Oracle ERP  ··············  ████████████░░░░░░░░   60%  data pipeline integration
+
+  BA / PA CRAFT
+  ├─ Agile / Scrum  ···········  ████████████████████  100%  led sprints · 5 departments
+  ├─ Requirements — BRD/FRD  ··  ████████████████████  100%  delivered · Big 4 signed off
+  ├─ Process Mapping — BPMN  ··  ████████████████████  100%  end-to-end re-engineering
+  ├─ UAT Coordination  ········  ████████████████████  100%  reduced audit time 15%
+  ├─ Customer Discovery/JTBD  ·  ████████████░░░░░░░░   65%  FreshStart · Tufts MEM
+  ├─ Product Analytics  ·······  ████████████░░░░░░░░   65%  KPI design · funnel analysis
+  └─ Financial Modelling  ·····  ████████████░░░░░░░░   65%  Pro Forma · Tufts MEM
+```
+
+<br/>
+
+---
+
+<br/>
+
+## `$ cat awards.txt`
+
+<br/>
 
 <div align="center">
 
-`🏢 KPMG Global Delivery Center` &nbsp;·&nbsp; `Business Analyst` &nbsp;·&nbsp; `Aug 2022 – Jul 2025`
+```
+  ┌───────────────────────────────────────────────────────────────────────┐
+  │                                                                       │
+  │   🏅  CLIENT SERVICE EXCELLENCE AWARD  ·  KPMG                       │
+  │       Reduced ETL processing time by 30% while delivering            │
+  │       consistently high-quality and timely client solutions.         │
+  │                                                                       │
+  │   ⭐  RISING STAR AWARD  ·  KPMG                                      │
+  │       Pioneered automated Python data validation processes            │
+  │       that significantly improved report accuracy company-wide.      │
+  │                                                                       │
+  │       Two awards. Three years. Big 4.                                │
+  │       That's not luck. That's the work.                              │
+  │                                                                       │
+  └───────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-| # | Business Problem | My Solution | Outcome |
-|:---:|:---|:---|:---:|
-| 1 | Runaway costs across data pipelines | Agile cross-functional initiative + process mapping | **$1M+ saved** |
-| 2 | Audit errors across 5 departments | Pipeline architecture + data governance | **99% accuracy** |
-| 3 | Slow manual validation cycles | Automated UAT workflows end-to-end | **15% faster** |
-| 4 | Data discrepancies undermining reports | End-to-end validation framework | **90% reduction** |
-| 5 | Stakeholder distrust in data | ETL optimisation + change management | **+20% satisfaction** |
-| 6 | Slow insight delivery to leadership | Enterprise Data Management System | **24 hrs faster** |
-| 7 | No KPI visibility for leadership | 5+ SQL + PySpark dashboards | **+8% efficiency** |
-| 8 | ETL bottlenecks slowing everything | Pipeline re-architecture end-to-end | **30% faster 🏅** |
-| 9 | Manual report validation prone to error | Python automated validation engine | **Award winning ⭐** |
+<br/>
 
 ---
 
-## 📦 &nbsp; Artifacts I Ship — Not Theories I Discuss
+<br/>
 
-```
-  ◉  Business Requirements Documents (BRD)       — stakeholder-signed, zero ambiguity
-  ◉  Functional Requirements Documents (FRD)      — dev-ready, testable, traceable
-  ◉  Product Requirements Documents (PRD)         — outcome-first, not feature-first
-  ◉  Process Maps & BPMN Swimlane Diagrams        — every exception, every edge case
-  ◉  User Stories + Acceptance Criteria           — written for devs AND QA
-  ◉  Executive Power BI & Tableau Dashboards      — decision-grade, not decorative
-  ◉  UAT Test Plans & Sign-off Packages           — nothing ships unvalidated
-  ◉  RACI Matrices & Stakeholder Registers        — no confusion, ever
-  ◉  KPI Frameworks & OPEX Reports                — tied to real business outcomes
-  ◉  Customer Discovery Research Reports          — insights, not just data
-  ◉  ETL Architecture Documentation               — built to survive team turnover
-  ◉  Root Cause Analysis Reports                  — five whys, every time
-```
+## `$ cat certifications.txt`
 
----
-
-## 🌟 &nbsp; The Real Differentiator
-
-```
-┌──────────────────────────────────────┬─────────────────────────────────────────────┐
-│   What Most Candidates Say           │   What My Profile Proves                    │
-├──────────────────────────────────────┼─────────────────────────────────────────────┤
-│  "Proficient in SQL"                 │  SQL that found $1M in cost savings         │
-│  "Experience with Agile"             │  Led Agile initiatives across 5 departments │
-│  "Built dashboards"                  │  Dashboards used daily by 20+ exec leaders  │
-│  "Stakeholder management"            │  Drove +20% satisfaction score at Big 4     │
-│  "Python skills"                     │  Python that won a company-wide award       │
-│  "Customer research experience"      │  FreshStart: 80%+ challenges identified     │
-│  "Strategic mindset"                 │  Aerospace → Big 4 → Tufts MEM. That IS    │
-│                                      │  systems thinking. Not a buzzword.          │
-└──────────────────────────────────────┴─────────────────────────────────────────────┘
-```
-
----
-
-## 🏅 &nbsp; Certifications
+<br/>
 
 <div align="center">
 
@@ -339,80 +408,107 @@ flowchart LR
 
 </div>
 
----
-
-## 🎓 &nbsp; Education
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  🎓  MASTER IN ENGINEERING MANAGEMENT                                        ║
-║      Tufts University  ·  Boston, MA  ·  Sep 2025 – May 2027                ║
-║                                                                              ║
-║      Technology Strategy  ·  Financial Intelligence  ·  Customer Discovery  ║
-║      Program & Project Management  ·  Introduction to Data Analytics        ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  🎓  B.E. AEROSPACE ENGINEERING                                               ║
-║      BMS College of Engineering  ·  Bengaluru  ·  2018 – 2022               ║
-║                                                                              ║
-║      Systems thinking + engineering rigour applied to every analysis        ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<br/>
 
 ---
 
-## 📊 &nbsp; Skill Depth — Honest & Verifiable
+<br/>
+
+## `$ cat education.txt`
+
+<br/>
 
 ```
-ANALYTICS & QUERYING
-  SQL (Advanced)              ████████████████████  100%   3 yrs · KPMG production use
-  Python                      ████████████████░░░░   80%   Automation · Pandas · Award winner
-  PySpark                     ████████████░░░░░░░░   60%   KPMG ETL pipelines
-  DAX / Power Query           ████████████████░░░░   80%   5+ production dashboards
-
-BUSINESS INTELLIGENCE
-  Power BI                    ████████████████████  100%   5+ exec dashboards · 20+ leaders
-  Tableau                     ████████████████░░░░   80%   Operational reporting
-  Advanced Excel              ████████████████████  100%   Financial modelling · OPEX
-  Alteryx                     ████████████░░░░░░░░   60%   ETL workflow design
-
-CLOUD & PLATFORMS
-  Microsoft Azure             ████████████████░░░░   80%   Certified · DP-900 + AI cert
-  SAP                         ████████████░░░░░░░░   60%   Enterprise ERP workflows
-  Oracle ERP                  ████████████░░░░░░░░   60%   Data pipeline integration
-
-BA / PA METHODOLOGY
-  Agile / Scrum               ████████████████████  100%   Led sprints across 5 departments
-  Requirements (BRD/FRD)      ████████████████████  100%   Delivered & signed off at Big 4
-  Process Mapping (BPMN)      ████████████████████  100%   End-to-end process re-engineering
-  UAT Coordination            ████████████████████  100%   Reduced audit time 15%
-  Customer Discovery / JTBD   ████████████░░░░░░░░   65%   FreshStart · Tufts MEM project
-  Product Analytics           ████████████░░░░░░░░   65%   KPI frameworks · Funnel design
-  Financial Modelling         ████████████░░░░░░░░   65%   Pro Forma · Tufts MEM project
+  ╔══════════════════════════════════════════════════════════════════════════╗
+  ║                                                                          ║
+  ║  🎓  MASTER IN ENGINEERING MANAGEMENT                                    ║
+  ║      Tufts University  ·  Boston, MA  ·  Sep 2025 – May 2027            ║
+  ║                                                                          ║
+  ║      Technology Strategy  ·  Financial Intelligence                     ║
+  ║      Customer Discovery   ·  Programme & Project Management             ║
+  ║      Introduction to Data Analytics                                     ║
+  ║                                                                          ║
+  ╠══════════════════════════════════════════════════════════════════════════╣
+  ║                                                                          ║
+  ║  🎓  B.E. AEROSPACE ENGINEERING                                          ║
+  ║      BMS College of Engineering  ·  Bengaluru  ·  Aug 2018 – Jun 2022  ║
+  ║                                                                          ║
+  ║      Systems thinking · Engineering rigour · Precision under pressure  ║
+  ║      (All three still apply. Just in boardrooms now, not wind tunnels.) ║
+  ║                                                                          ║
+  ╚══════════════════════════════════════════════════════════════════════════╝
 ```
+
+<br/>
 
 ---
+
+<br/>
+
+## `$ cat why_me.diff`
+
+<br/>
+
+```diff
+  # Every BA resume says the same things.
+  # Here is what makes this one different.
+
+- "Proficient in SQL"
++ SQL that found $1,000,000 in cost savings at a Big 4 firm
+
+- "Experience with Agile"
++ Led Agile cross-functional initiatives across 5 departments at KPMG
+
+- "Built dashboards"
++ Dashboards used daily by 20+ senior leaders → averaged +8% efficiency lift
+
+- "Stakeholder management skills"
++ Drove +20% stakeholder satisfaction through change management programmes
+
+- "Python experience"
++ Python automation that won a company-wide Rising Star Award
+
+- "Customer research background"
++ End-to-end JTBD discovery — 80%+ of newcomer food challenges identified
+
+- "Strategic thinker"
++ Aerospace → Big 4 → Tufts MEM
++ That IS systems thinking. It's not a buzzword on my resume.
++ It's a career arc.
+```
+
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║                 📬   LET'S TALK                                           ║
-║                                                                           ║
-║   I don't just fill BA · PA · S&O roles. I make them look easy.          ║
-║   Reach out — I respond fast.                                             ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+  ╭──────────────────────────────────────────────────────────────────────╮
+  │                                                                      │
+  │                   $ reach_out --now                                  │
+  │                                                                      │
+  │   I don't just fill BA · PA · Strategy & Ops roles.                 │
+  │   I make them look easy.                                             │
+  │                                                                      │
+  │   📞  339-242-8713          Fast reply guaranteed.                  │
+  │   📧  ishtarthumesh06@gmail.com                                      │
+  │                                                                      │
+  ╰──────────────────────────────────────────────────────────────────────╯
 ```
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishtarth-umesh-497582170/)
-&nbsp;
-[![Email](https://img.shields.io/badge/ishtarthumesh06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishtarthumesh06@gmail.com)
-&nbsp;
-[![Phone](https://img.shields.io/badge/339--242--8713-1DB954?style=for-the-badge)](tel:+13392428713)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=1DB954&center=true&vCenter=true&width=750&lines=Big+4+trained.+Award+winning.+Tufts+educated.+Ready+now.;Product+Analyst+·+Strategy+%26+Ops+·+Business+Analyst;%241M%2B+identified.+99%25+accurate.+90%25+cleaner.+30%25+faster.)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishtarth-umesh-497582170/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishtarthumesh06@gmail.com)
+&nbsp;&nbsp;
+[![Call](https://img.shields.io/badge/Call_Me-339·242·8713-1DB954?style=for-the-badge&logo=googlemeet&logoColor=white)](tel:+13392428713)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=1DB954&center=true&vCenter=true&width=720&lines=Big+4+trained.+Award+winning.+Tufts+educated.+Ready+now.;%241M%2B+found.+99%25+accurate.+90%25+cleaner.+30%25+faster.;Aerospace+→+Analytics.+The+altitude+changed.+The+precision+didn't.)](https://git.io/typing-svg)
 
 </div>
