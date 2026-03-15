@@ -1,0 +1,57 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a0015"/>
+      <stop offset="50%"  stop-color="#1a0533"/>
+      <stop offset="100%" stop-color="#0d0d2b"/>
+    </linearGradient>
+    <linearGradient id="fline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#a78bfa"/>
+      <stop offset="70%"  stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      @keyframes expandLine2 {
+        from { stroke-dashoffset: 800; }
+        to   { stroke-dashoffset: 0;   }
+      }
+      @keyframes fadeIn2 {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+      @keyframes drift2 {
+        0%,100% { transform: translate(0,0);      opacity: 0.5; }
+        50%     { transform: translate(3px,-5px); opacity: 0.8; }
+      }
+      .fline { stroke-dasharray: 800; animation: expandLine2 2s ease 0.3s both; }
+      .ftxt  { animation: fadeIn2 1.2s ease 0.8s both; }
+      .fp1   { animation: drift2 5s ease-in-out infinite; }
+      .fp2   { animation: drift2 6s ease-in-out infinite 1.5s; }
+      .fp3   { animation: drift2 7s ease-in-out infinite 2.8s; }
+    </style>
+  </defs>
+
+  <path d="M0 0 Q225 20 450 8 Q675 -4 900 15 L900 0 L0 0 Z"
+        fill="#0a0015" fill-opacity="0.5"/>
+  <rect y="15" width="900" height="85" fill="url(#footerbg)"/>
+
+  <line x1="150" y1="38" x2="750" y2="38"
+        stroke="url(#fline)" stroke-width="1" class="fline"/>
+
+  <circle class="fp1" cx="80"  cy="60" r="1.5" fill="#a78bfa" fill-opacity="0.6"/>
+  <circle class="fp2" cx="450" cy="75" r="1"   fill="#c4b5fd" fill-opacity="0.4"/>
+  <circle class="fp3" cx="820" cy="55" r="1.5" fill="#818cf8" fill-opacity="0.5"/>
+
+  <text x="450" y="62"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="11" fill="#6b5fa8"
+        text-anchor="middle" letter-spacing="2"
+        class="ftxt">TURNING DATA INTO DECISIONS  ·  BOSTON  ·  2026</text>
+
+  <text x="450" y="82"
+        font-family="Georgia,serif"
+        font-size="10" fill="#4a3d7a"
+        text-anchor="middle" font-style="italic"
+        class="ftxt">Aerospace → Big 4 → Tufts MEM — the journey continues</text>
+</svg>
