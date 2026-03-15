@@ -1,318 +1,230 @@
-<!-- 
-  ISHTARTH UMESH — OPTIMIZED PROFILE README
-  
-  KEY CHANGES FROM YOUR CURRENT VERSION:
-  ✅ Removed phone number badge (privacy risk)
-  ✅ Fixed broken "Call" badge URL
-  ✅ Added GitHub Stats + Streak cards
-  ✅ Added alt text to all images (accessibility)
-  ✅ Replaced "Dropping soon" with live repo links
-  ✅ Added auto-update timestamp target
--->
+<div align="center">
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=ISHTARTH%20UMESH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20Business%20Analyst%20Who%20Chooses%20Data%20Over%20Flight%20✈️➡️📊&descSize=16&descAlignY=55"
-  alt="Animated wave header for Ishtarth Umesh — Business Analyst"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Ishtarth%20Umesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Business%20%26%20Product%20Analyst%20%E2%80%94%20I%20turn%20messy%20data%20into%20decisions%20that%20move%20money&descSize=15&descAlignY=58&descColor=c9b8ff&animation=fadeIn" alt="Header banner for Ishtarth Umesh — Business and Product Analyst" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=900&lines=🎯+Business+Analyst+%7C+Product+Analyst+%7C+Strategy+%26+Ops;💰+%241M%2B+Saved+·+99%25+Accurate+·+2×+Award+Winner;📚+From+Aerospace+to+Analytics+·+KPMG+Big+4+·+Tufts+MEM;⚡+The+power+to+turn+chaos+into+clarity)](https://git.io/typing-svg)
+</div>
 
-<p align="center">
+---
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/ishtarth-umesh-497582170/)
-&nbsp;
-[![Email](https://img.shields.io/badge/📧_Email-ishtarthumesh06@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:ishtarthumesh06@gmail.com)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=IshtarthUmesh&label=Profile+Views&color=6366f1&style=for-the-badge)](https://github.com/IshtarthUmesh)
-&nbsp;
-[![Status](https://img.shields.io/badge/🟢_STATUS-OPEN_TO_WORK-10B981?style=for-the-badge)](https://www.linkedin.com/in/ishtarth-umesh-497582170/)
+<div align="center">
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ishtarth--umesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishtarth-umesh-497582170/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-ishtarthumesh06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishtarthumesh06@gmail.com)
+&nbsp;&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=IshtarthUmesh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/IshtarthUmesh)
+&nbsp;&nbsp;
+[![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22c55e?style=for-the-badge)](https://www.linkedin.com/in/ishtarth-umesh-497582170/)
 
-<br/>
+</div>
 
 ---
 
 <br/>
 
-### 💫 *"The difference between the impossible and possible lies in determination."*
+## The short version
 
-*— Adapted from my journey: Aerospace Engineer → Big 4 Business Analyst → MEM @ Tufts*
+Aerospace engineer who got bored designing things that fly and started designing systems that decide. Three years at **KPMG** building data pipelines, validation frameworks, and executive dashboards for Fortune 500 clients. Now at **Tufts** earning my MEM while building everything I promised clients I would build — but never had time to ship.
 
-<br/>
-
----
-
-<br/>
-
-| 🌟 THE HERO'S STATS | ⚔️ ABILITY TREE UNLOCKED |
-|---|---|
-| <pre>Name:     Ishtarth Umesh<br>Class:    Business Analyst · Product Analyst<br>Level:    Senior (3 Years)<br>Guild:    KPMG Big 4 (Former) · Tufts (Current)<br>Location: Boston, MA 🇺🇸 · Origin: Bengaluru 🇮🇳<br><br>=== POWER LEVELS ===<br>💰 Cost Savings Identified : $1,000,000+<br>📊 Audit Accuracy         : 99%<br>📉 Error Annihilation     : 90%<br>⚡ ETL Speed Boost        : 30%<br>😊 Satisfaction Increase  : +20%<br>🎯 Leaders Empowered      : 20+</pre> | <pre>=== CORE SKILLS ===<br>▰▰▰▰▰▰▰▰▰▰ SQL            [MAX]<br>▰▰▰▰▰▰▰▰░░ Python         [LVL 8]<br>▰▰▰▰▰▰▰▰▰▰ Power BI       [MAX]<br>▰▰▰▰▰▰▰▰░░ Tableau        [LVL 8]<br>▰▰▰▰▰▰▰▰░░ Azure Cloud    [LVL 8]<br>▰▰▰▰▰▰░░░░ PySpark        [LVL 6]<br><br>=== SPECIAL MOVES ===<br>🔥 ETL Pipeline Mastery<br>🎯 Agile Sprint Leadership<br>💎 Dashboard Creation (Legendary)<br>⚡ Data Validation Automation<br>🌊 Cross-Functional Coordination</pre> |
+I don't make dashboards. I answer questions with data, and the dashboard is just the receipt.
 
 <br/>
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+## What I've actually done
 
-| 🏅 | ⭐ | 💎 |
-|---|---|---|
-| **CLIENT SERVICE EXCELLENCE** <br/> *Reduced ETL processing by 30%* <br/> **Epic Tier Award** <br/> *KPMG Global* | **RISING STAR** <br/> *Python automation pioneer* <br/> **Legendary Tier Award** <br/> *KPMG Global* | **BIG 4 VETERAN** <br/> *3 years battle-tested* <br/> **Rare Achievement** <br/> *Fortune 500 Ready* |
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **$1,000,000+** | **99%** | **90%** | **30%** |
+| Cost savings identified | Audit accuracy | Error reduction | Faster ETL processing |
+| *Agile pipeline redesign* | *5-dept governance* | *End-to-end validation* | *Award-winning automation* |
+
+| | |
+|:---:|:---:|
+| **20+** | **+20%** |
+| Executives using my dashboards daily | Stakeholder satisfaction lift |
+| *SQL + PySpark reporting suite* | *Change management programme* |
+
+</div>
 
 <br/>
 
 ---
 
-## ⚔️ BATTLE RECORD — KPMG SAGA
+## What I'm building now
 
-*Aug 2022 – Jul 2025 · Business Analyst · Bengaluru → Boston*
+Three repositories — real work, real data, real decisions. Not tutorial clones.
+
+<br/>
+
+### [`retail-operations-analytics`](https://github.com/IshtarthUmesh/retail-operations-analytics)
+
+![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Python-6366f1?style=flat-square)
+![Dataset](https://img.shields.io/badge/Dataset-Olist%20Brazil%20E--commerce-f59e0b?style=flat-square)
+
+End-to-end product analyst workflow. Every SQL query is annotated with the business question it answers — not the technical description of what it does. Every KPI in the dashboard traces back to a stakeholder decision it was built to trigger. This is the difference between a analyst who makes charts and one who changes behaviour.
 ```
-╔═════════════════════════════════════════════════════════════════════════╗
-║                          ⚡ IMPACT DASHBOARD ⚡                         ║
-╠═════════════════════════════════════════════════════════════════════════╣
-║  💰  MISSION: Cost Optimization                                         ║
-║      ├─ Led Agile cross-functional data pipeline design                ║
-║      └─ RESULT: $1,000,000+ in savings identified            [SUCCESS] ║
-║                                                                         ║
-║  ✅  MISSION: Data Governance                                           ║
-║      ├─ Built pipeline architecture across 5 departments               ║
-║      └─ RESULT: 99% audit accuracy maintained                [SUCCESS] ║
-║                                                                         ║
-║  📉  MISSION: Error Elimination                                         ║
-║      ├─ Deployed end-to-end validation framework                       ║
-║      └─ RESULT: 90% reduction in data discrepancies          [SUCCESS] ║
-║                                                                         ║
-║  ⚡  MISSION: Speed Enhancement                                         ║
-║      ├─ Re-architected ETL pipelines + UAT automation                  ║
-║      └─ RESULT: 30% faster processing → 🏅 AWARD WON         [SUCCESS] ║
-║                                                                         ║
-║  😊  MISSION: Trust Building                                            ║
-║      ├─ Change management + reliability programme                      ║
-║      └─ RESULT: +20% stakeholder satisfaction                [SUCCESS] ║
-║                                                                         ║
-║  📊  MISSION: Leadership Enablement                                     ║
-║      ├─ Built 5+ SQL + PySpark executive dashboards                    ║
-║      └─ RESULT: 20+ leaders empowered, +8% avg efficiency   [SUCCESS] ║
-║                                                                         ║
-║  🕐  MISSION: Insight Acceleration                                      ║
-║      ├─ Redesigned Enterprise Data Management System                   ║
-║      └─ RESULT: Business insights 24 hours faster            [SUCCESS] ║
-║                                                                         ║
-╠═════════════════════════════════════════════════════════════════════════╣
-║                    🎖️ PERFECT MISSION RECORD 🎖️                        ║
-╚═════════════════════════════════════════════════════════════════════════╝
+problem-brief/     → stakeholder questions defined before a single query was written
+sql-models/        → 25+ annotated queries, one business question each  
+kpi-framework/     → why each metric exists, not just what it measures
+powerbi-dashboard/ → .pbix + screenshots
+insight-memo.pdf   → the one-pager that gets read
 ```
 
 <br/>
 
----
+### [`data-validation-engine`](https://github.com/IshtarthUmesh/data-validation-engine)
 
-## 📚 CURRENT QUEST — TUFTS UNIVERSITY
+![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Python%20%C2%B7%20Pandas%20%C2%B7%20openpyxl-6366f1?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-f59e0b?style=flat-square)
 
-### *Master in Engineering Management · Sep 2025 – May 2027 · Boston, MA*
+The tool that won me KPMG's Rising Star Award — rebuilt clean and open-sourced. Point it at any CSV. It validates, flags anomalies, and generates a stakeholder-ready Excel report. Designed so that the person reading the output doesn't need to understand the code that produced it.
+```python
+from validator import DataValidator
 
-| 🎯 ACTIVE PROJECTS | 📖 SKILLS LEARNED |
-|---|---|
-| <pre>┌─────────────────────────────┐<br>│  📊 Retail Operations        │<br>│     Analytics                │<br>│  Status: [▰▰▰▰▰▰▰░░░] 70%   │<br>│  → github.com/IshtarthUmesh │<br>│    /retail-operations-       │<br>│     analytics                │<br>└─────────────────────────────┘<br><br>┌─────────────────────────────┐<br>│  🍱 FreshStart Food          │<br>│     Insights                 │<br>│  Status: [▰▰▰▰▰▰▰░░░] 70%   │<br>│  Boss: Customer Discovery    │<br>└─────────────────────────────┘</pre> | ✨ Technology Strategy <br/> ✨ Financial Intelligence <br/> ✨ Customer Discovery <br/> ✨ Programme Management <br/> ✨ Data Analytics <br/><br/> **🎓 Previous Training Arc** <br/> *B.E. Aerospace Engineering* <br/> *BMS College · 2018–2022* |
-
-<br/>
-
----
-
-## 🗂️ PORTFOLIO — PROOF OF POWER
-
-### 📌 [PROJECT 01 — Retail Operations Analytics](https://github.com/IshtarthUmesh/retail-operations-analytics)
-
-![Status](https://img.shields.io/badge/📦_Status-Live-10B981?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Product_Analyst_Showcase-6366F1?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Stack-SQL_·_Power_BI_·_Python-3B82F6?style=for-the-badge)
-
-> **The Mission:** End-to-end Product Analyst workflow on Olist Brazil dataset
->
-> **What Makes It Special:**
-> - Not just "I made a dashboard" — documents *why* each KPI was chosen
-> - *What question* each SQL query answers
-> - *What decision* the dashboard triggers
-
-### 📌 [PROJECT 02 — Data Validation Engine](https://github.com/IshtarthUmesh/data-validation-engine)
-
-![Status](https://img.shields.io/badge/📦_Status-Live-10B981?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Automation_Showcase-10B981?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Stack-Python_·_Pandas_·_Excel-3B82F6?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-> **The Mission:** Open-source version of the tool that won me the Rising Star Award
->
-> **What It Does:**
-> - Point at any CSV → validates → flags anomalies → generates Excel report
-> - Built for analysts, documented for non-technical stakeholders
-
-### 📌 [PROJECT 03 — FreshStart Food Insights](https://github.com/IshtarthUmesh/freshstart-food-insights)
-
-![Status](https://img.shields.io/badge/🟢_Status-In_Progress-10B981?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Customer_Discovery-EC4899?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Stack-JTBD_·_Research_·_Strategy-3B82F6?style=for-the-badge)
-
-> **The Mission:** Live Tufts MEM research — identify food adaptation challenges
->
-> **Current Progress:** Interview guide → thematic synthesis → strategy memo
+dv = DataValidator("your_data.csv")
+dv.validate(required_columns=["order_id", "amount"], numeric_ranges={"amount": (0, 1e6)})
+dv.export_report("validation_report.xlsx")
+```
 
 <br/>
 
----
+### [`freshstart-food-insights`](https://github.com/IshtarthUmesh/freshstart-food-insights)
 
-## 📊 BATTLE STATISTICS
+![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=flat-square)
+![Method](https://img.shields.io/badge/Method-JTBD%20%C2%B7%20Thematic%20Analysis-6366f1?style=flat-square)
+![Context](https://img.shields.io/badge/Context-Tufts%20MEM%20Research-7c3aed?style=flat-square)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=IshtarthUmesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-    width="48%"
-    alt="Ishtarth's GitHub stats — commits, PRs, issues and contributions"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshtarthUmesh&layout=compact&theme=tokyonight&hide_border=true" 
-    width="40%"
-    alt="Most used languages in Ishtarth's public repositories"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=IshtarthUmesh&theme=tokyonight&hide_border=true" 
-    width="60%"
-    alt="Ishtarth's GitHub contribution streak"
-  />
-</p>
-
-<br/>
-
----
-
-## 🛠️ WEAPON ARSENAL
-
-**⚔️ CORE WEAPONS**
-
-[![SQL](https://img.shields.io/badge/SQL-Advanced-44791A?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/IshtarthUmesh)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/IshtarthUmesh)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/IshtarthUmesh)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/IshtarthUmesh)
-[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/IshtarthUmesh)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/IshtarthUmesh)
-
-**🛡️ INFRASTRUCTURE**
-
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/IshtarthUmesh)
-[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/IshtarthUmesh)
-[![Oracle](https://img.shields.io/badge/Oracle_ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/IshtarthUmesh)
-[![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge&logo=alteryx&logoColor=white)](https://github.com/IshtarthUmesh)
-
-**📋 TACTICAL SUPPORT**
-
-[![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/IshtarthUmesh)
-[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://github.com/IshtarthUmesh)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/IshtarthUmesh)
-
-**🎯 COMBAT TECHNIQUES**
-
-![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge)
-![BPMN](https://img.shields.io/badge/BPMN-E17055?style=for-the-badge)
-![BABOK](https://img.shields.io/badge/BABOK-6C5CE7?style=for-the-badge)
-![JTBD](https://img.shields.io/badge/JTBD-10B981?style=for-the-badge)
-![UAT](https://img.shields.io/badge/UAT_QA-A29BFE?style=for-the-badge)
-![OKRs](https://img.shields.io/badge/OKRs-F59E0B?style=for-the-badge)
-
-<br/>
-
----
-
-## 🎓 TRAINING COMPLETED
-
-| 🏫 TUFTS UNIVERSITY | 🏫 BMS COLLEGE |
-|---|---|
-| **Master in Engineering Management** <br/> *Sep 2025 – May 2027 · Boston, MA* <br/><br/> 📚 Technology Strategy <br/> 📚 Financial Intelligence <br/> 📚 Customer Discovery <br/> 📚 Programme Management | **B.E. Aerospace Engineering** <br/> *Aug 2018 – Jun 2022 · Bengaluru, India* <br/><br/> ✈️ Systems Thinking <br/> ✈️ Engineering Precision <br/><br/> *Then I applied it all to business.* |
-
-<br/>
-
----
-
-## 🎖️ CERTIFICATIONS EARNED
-
-[![Product Analytics](https://img.shields.io/badge/✔_Product_Analytics-0052CC?style=for-the-badge)](https://github.com/IshtarthUmesh)
-[![Azure AI](https://img.shields.io/badge/✔_Microsoft_AI_in_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/IshtarthUmesh)
-[![Power BI](https://img.shields.io/badge/✔_Power_BI_Data_Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/IshtarthUmesh)
-[![Azure DP-900](https://img.shields.io/badge/✔_Azure_Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/IshtarthUmesh)
-
-<br/>
-
----
-
-## 💭 WHAT MAKES ME DIFFERENT
-
-| ❌ WHAT EVERYONE ELSE SAYS | ✅ WHAT I ACTUALLY PROVE |
-|---|---|
-| "I'm proficient in SQL" | SQL that found **$1M in savings** at Big 4 |
-| "I have Agile experience" | **Led Agile** across 5 departments at KPMG |
-| "I've built dashboards" | Dashboards **used by 20+ executives daily** |
-| "I work well with stakeholders" | Drove **+20% satisfaction** score |
-| "I know Python" | Python that won a **company-wide award** |
-| "I'm a strategic thinker" | Aerospace → Big 4 → Tufts **(that IS strategy)** |
-
-<br/>
-
----
-
-## 🎯 MY BATTLE STYLE
-```mermaid
-flowchart LR
-    A["👂 DISCOVER\nInterviews\nJTBD Research"] --> B["📝 DEFINE\nBRD · FRD\nUser Stories"]
-    B --> C["🗺️ MAP\nBPMN\nProcess Flows"]
-    C --> D["🔧 BUILD\nSQL · ETL\nPython"]
-    D --> E["✅ VALIDATE\nUAT · QA\nTesting"]
-    E --> F["📊 VISUALIZE\nPower BI\nTableau"]
-    F --> G["💡 DELIVER\nInsights\nDecisions"]
-    G -.->|🔄 Level Up| A
-
-    style A fill:#6366f1,color:#fff,stroke:#4f46e5,stroke-width:2px
-    style B fill:#8b5cf6,color:#fff,stroke:#7c3aed,stroke-width:2px
-    style C fill:#ec4899,color:#fff,stroke:#db2777,stroke-width:2px
-    style D fill:#f59e0b,color:#000,stroke:#d97706,stroke-width:2px
-    style E fill:#10b981,color:#fff,stroke:#059669,stroke-width:2px
-    style F fill:#3b82f6,color:#fff,stroke:#2563eb,stroke-width:2px
-    style G fill:#ef4444,color:#fff,stroke:#dc2626,stroke-width:2px
+Live Tufts research applying Jobs-to-Be-Done to food adaptation challenges among international students and immigrants in Boston. Most product analysts skip customer discovery. Product roles require it. This is the thing most portfolios are missing.
+```
+research-design/  → interview guide, survey framework, sampling strategy
+synthesis/        → thematic coding, affinity diagram, JTBD map
+insight-report/   → strategy memo with opportunity sizing
 ```
 
 <br/>
 
 ---
 
-## 💬 THE FINAL BOSS QUOTE
+## Stack
 
-### *"Data doesn't lie. But it doesn't tell the truth either.*
-### *You have to ask it the right questions."*
+**Core:**
 
-**That's what I do. I ask better questions than everyone else in the room.**
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Senior-E97627?style=flat-square&logo=tableau&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-Intermediate-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Cloud & platforms:**
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Oracle ERP](https://img.shields.io/badge/Oracle%20ERP-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=flat-square&logo=alteryx&logoColor=white)
+
+**Process & tooling:**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square)
+![BPMN](https://img.shields.io/badge/BPMN-E17055?style=flat-square)
+![JTBD](https://img.shields.io/badge/JTBD-10B981?style=flat-square)
+![UAT](https://img.shields.io/badge/UAT%20%2F%20QA-A29BFE?style=flat-square)
 
 <br/>
 
 ---
 
-## 📬 READY TO TEAM UP?
+## How I work
 
-### 🔥 I respond fast. Usually same day. Let's talk.
+Every engagement I've run follows the same sequence — not because it's a template, but because skipping steps is how you end up with a beautiful dashboard nobody uses.
+```
+Discover → Define → Map → Build → Validate → Visualise → Deliver → (repeat)
 
-<p align="center">
+👂 JTBD interviews    📝 BRD / FRD        🗺 BPMN flows     🔧 SQL + Python
+✅ UAT / QA testing   📊 Power BI / Tableau   💡 Insight memo
+```
 
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/ishtarth-umesh-497582170/)
-
-[![Email](https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:ishtarthumesh06@gmail.com)
-
-</p>
+The loop at the end isn't decorative. Every delivery surfaces new questions.
 
 <br/>
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"
-  alt="Decorative wave footer"
-/>
+---
+
+## Background
+```
+2018–2022   B.E. Aerospace Engineering          BMS College · Bengaluru, India
+            Systems thinking. Engineering precision. Solving under pressure.
+            Then I applied all of it to business.
+
+2022–2025   Business Analyst                    KPMG Big 4 · Bengaluru → Boston
+            ETL pipelines · data governance · executive dashboards
+            2 company-wide awards. $1M+ in savings identified.
+
+2025–2027   Master in Engineering Management    Tufts University · Boston, MA
+            Technology strategy · financial intelligence · customer discovery
+            Building the portfolio I always wanted to have.
+```
+
+<br/>
+
+---
+
+## Certifications
+
+![Product Analytics](https://img.shields.io/badge/%E2%9C%94%20Product%20Analytics-Certified-0052CC?style=flat-square)
+![Microsoft AI in Azure](https://img.shields.io/badge/%E2%9C%94%20Microsoft%20AI%20in%20Azure-Certified-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power BI Data Analyst](https://img.shields.io/badge/%E2%9C%94%20Power%20BI%20Data%20Analyst-Certified-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Azure Data Fundamentals](https://img.shields.io/badge/%E2%9C%94%20Azure%20Data%20Fundamentals%20DP--900-Certified-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<br/>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IshtarthUmesh&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=7c3aed&title_color=a78bfa&count_private=true&include_all_commits=true" alt="Ishtarth's GitHub stats showing commits, PRs, and contributions" width="48%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshtarthUmesh&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=a78bfa" alt="Most used languages across Ishtarth's public repositories" width="38%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshtarthUmesh&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" alt="Ishtarth's current contribution streak on GitHub" width="55%"/>
+
+</div>
+
+<br/>
+
+---
+
+## Let's talk
+
+I respond the same day. If you've read this far you probably have a question — just send it.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishtarth-umesh-497582170/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishtarthumesh06@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer" alt="Footer wave decoration" width="100%"/>
+</div>
 
 <!-- Last updated: March 2026 -->
