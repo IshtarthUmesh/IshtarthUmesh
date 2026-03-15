@@ -1,18 +1,13 @@
 <!-- 
   ISHTARTH UMESH — OPTIMIZED PROFILE README
-  File: IshtarthUmesh/IshtarthUmesh/README.md
   
-  CHANGES FROM CURRENT VERSION:
-  1. Removed phone number badge (privacy risk)
-  2. Fixed Call badge broken URL
-  3. Added GitHub Stats cards
-  4. Added alt text to all images
-  5. Replaced "Dropping soon" with live repo links (update once repos exist)
-  6. Added "Last updated" auto-update target line
-  7. Added accessibility note to ASCII tables
-  8. Minor polish: added Portfolio link placeholder
-  
-  Keep your RPG theme — it's genuinely distinctive.
+  KEY CHANGES FROM YOUR CURRENT VERSION:
+  ✅ Removed phone number badge (privacy risk)
+  ✅ Fixed broken "Call" badge URL
+  ✅ Added GitHub Stats + Streak cards
+  ✅ Added alt text to all images (accessibility)
+  ✅ Replaced "Dropping soon" with live repo links
+  ✅ Added auto-update timestamp target
 -->
 
 <img 
@@ -71,9 +66,6 @@
 ## ⚔️ BATTLE RECORD — KPMG SAGA
 
 *Aug 2022 – Jul 2025 · Business Analyst · Bengaluru → Boston*
-
-<!-- Summary for screen readers: 7 completed missions at KPMG with measurable outcomes -->
-
 ```
 ╔═════════════════════════════════════════════════════════════════════════╗
 ║                          ⚡ IMPACT DASHBOARD ⚡                         ║
@@ -129,14 +121,11 @@
 
 ## 🗂️ PORTFOLIO — PROOF OF POWER
 
-*Three legendary items. Real data. Public repos.*
-
 ### 📌 [PROJECT 01 — Retail Operations Analytics](https://github.com/IshtarthUmesh/retail-operations-analytics)
 
 ![Status](https://img.shields.io/badge/📦_Status-Live-10B981?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Product_Analyst_Showcase-6366F1?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-SQL_·_Power_BI_·_Python-3B82F6?style=for-the-badge)
-![CI](https://github.com/IshtarthUmesh/retail-operations-analytics/actions/workflows/sql-lint.yml/badge.svg)
 
 > **The Mission:** End-to-end Product Analyst workflow on Olist Brazil dataset
 >
@@ -144,22 +133,12 @@
 > - Not just "I made a dashboard" — documents *why* each KPI was chosen
 > - *What question* each SQL query answers
 > - *What decision* the dashboard triggers
->
-> **The Loot:**
-> ```
-> /problem-brief        → Stakeholder questions defined FIRST
-> /sql-models           → 25+ annotated queries, one business question each
-> /kpi-framework        → KPIs before dashboards (the right way)
-> /powerbi-dashboard    → Packaged .pbix + screenshots
-> /insight-memo.pdf     → The one-pager that gets read
-> ```
 
 ### 📌 [PROJECT 02 — Data Validation Engine](https://github.com/IshtarthUmesh/data-validation-engine)
 
 ![Status](https://img.shields.io/badge/📦_Status-Live-10B981?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Automation_Showcase-10B981?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-Python_·_Pandas_·_Excel-3B82F6?style=for-the-badge)
-![CI](https://github.com/IshtarthUmesh/data-validation-engine/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > **The Mission:** Open-source version of the tool that won me the Rising Star Award
@@ -167,14 +146,6 @@
 > **What It Does:**
 > - Point at any CSV → validates → flags anomalies → generates Excel report
 > - Built for analysts, documented for non-technical stakeholders
->
-> **The Loot:**
-> ```
-> /validator.py         → Core engine, fully commented
-> /report_builder.py    → Stakeholder-ready Excel output
-> /tests/               → Sample datasets included
-> /README.md            → Business problem explained, not just code
-> ```
 
 ### 📌 [PROJECT 03 — FreshStart Food Insights](https://github.com/IshtarthUmesh/freshstart-food-insights)
 
@@ -184,12 +155,7 @@
 
 > **The Mission:** Live Tufts MEM research — identify food adaptation challenges
 >
-> **Current Progress:**
-> ```
-> /research-design      → Interview guide + survey framework
-> /synthesis            → Thematic analysis, coded findings
-> /insight-report       → 70%+ adaptation improvement targeted
-> ```
+> **Current Progress:** Interview guide → thematic synthesis → strategy memo
 
 <br/>
 
@@ -201,12 +167,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=IshtarthUmesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
     width="48%"
-    alt="Ishtarth's GitHub stats — commits, PRs, issues, and contributions"
+    alt="Ishtarth's GitHub stats — commits, PRs, issues and contributions"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshtarthUmesh&layout=compact&theme=tokyonight&hide_border=true" 
     width="40%"
-    alt="Most used programming languages in Ishtarth's repos"
+    alt="Most used languages in Ishtarth's public repositories"
   />
 </p>
 
@@ -224,8 +190,6 @@
 
 ## 🛠️ WEAPON ARSENAL
 
-*The tools I wield daily*
-
 **⚔️ CORE WEAPONS**
 
 [![SQL](https://img.shields.io/badge/SQL-Advanced-44791A?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/IshtarthUmesh)
@@ -235,7 +199,7 @@
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/IshtarthUmesh)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/IshtarthUmesh)
 
-**🛡️ DEFENSE & INFRASTRUCTURE**
+**🛡️ INFRASTRUCTURE**
 
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/IshtarthUmesh)
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/IshtarthUmesh)
@@ -265,7 +229,7 @@
 
 | 🏫 TUFTS UNIVERSITY | 🏫 BMS COLLEGE |
 |---|---|
-| **Master in Engineering Management** <br/> *Sep 2025 – May 2027* <br/> *Boston, MA* <br/><br/> 📚 Technology Strategy <br/> 📚 Financial Intelligence <br/> 📚 Customer Discovery <br/> 📚 Programme Management <br/> 📚 Data Analytics | **B.E. Aerospace Engineering** <br/> *Aug 2018 – Jun 2022* <br/> *Bengaluru, India* <br/><br/> ✈️ Systems Thinking <br/> ✈️ Engineering Precision <br/> ✈️ Problem Solving Under Pressure <br/><br/> *Then I applied it all to business.* |
+| **Master in Engineering Management** <br/> *Sep 2025 – May 2027 · Boston, MA* <br/><br/> 📚 Technology Strategy <br/> 📚 Financial Intelligence <br/> 📚 Customer Discovery <br/> 📚 Programme Management | **B.E. Aerospace Engineering** <br/> *Aug 2018 – Jun 2022 · Bengaluru, India* <br/><br/> ✈️ Systems Thinking <br/> ✈️ Engineering Precision <br/><br/> *Then I applied it all to business.* |
 
 <br/>
 
@@ -292,14 +256,12 @@
 | "I work well with stakeholders" | Drove **+20% satisfaction** score |
 | "I know Python" | Python that won a **company-wide award** |
 | "I'm a strategic thinker" | Aerospace → Big 4 → Tufts **(that IS strategy)** |
-| "Big 4 background" | Big 4 **+ 2 awards + MEM** |
 
 <br/>
 
 ---
 
 ## 🎯 MY BATTLE STYLE
-
 ```mermaid
 flowchart LR
     A["👂 DISCOVER\nInterviews\nJTBD Research"] --> B["📝 DEFINE\nBRD · FRD\nUser Stories"]
