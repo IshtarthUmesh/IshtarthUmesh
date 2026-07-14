@@ -111,7 +111,7 @@ Now I'm at **Tufts**, earning my MEM and building in public everything I always 
 
 <br/>
 
-### &nbsp;[`retail-operations-analytics`](https://github.com/IshtarthUmesh/retail-operations-analytics)
+### &nbsp;[`retail-operations-analytics`](https://github.com/IshtarthUmesh/Retail-Demand-Planning.git)
 
 <div>
 
