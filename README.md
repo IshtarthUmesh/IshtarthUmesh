@@ -111,6 +111,22 @@ Now I'm at **Tufts**, earning my MEM and building in public everything I always 
 
 <br/>
 
+### &nbsp;[`Procurement-Performance-Dashboard`](https://github.com/IshtarthUmesh/Procurement-Performance-Dashboard)
+
+<div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</div>
+
+Interactive procurement analytics built with **Python, Pandas, Streamlit and Plotly**. Five dashboard pages explore spend trends, supplier performance, category price changes, savings opportunities and vendor risk. Vendor risk scoring combines a **weighted scorecard with Isolation Forest anomaly detection**, while savings analysis surfaces price variance, off-contract spend, supplier consolidation opportunities and potential duplicate payments. Uses a **reproducible synthetic purchase-order dataset**; savings figures are addressable estimates based on stated assumptions.
+
+<br/>
+
 ### &nbsp;[`retail-operations-analytics`](https://github.com/IshtarthUmesh/Retail-Demand-Planning.git)
 
 <div>
