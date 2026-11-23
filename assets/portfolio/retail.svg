@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="306" viewBox="0 0 900 306" role="img" aria-labelledby="t d">
+<title id="t">Forecasted daily hardware sales at store 10</title>
+<desc id="d">Thirty ARIMA point forecasts, August 12 through September 10, 2017. Daily forecasted sales start at 0.428 units, reach 0.385 by the third day, and remain near that value. Vertical scale is 0.38 to 0.43 units.</desc>
+<style>
+text { font-family:Arial,Helvetica,sans-serif; fill:#211A38 }
+.mono { font-family:'Courier New',monospace; font-weight:700 }
+.eyebrow { font-size:17px;letter-spacing:1.6px;fill:#38625A }
+.head { font-family:Georgia,'Times New Roman',serif;font-size:34px }
+.tick { font-size:18px;fill:#49605B }
+
+@keyframes reveal{0%{opacity:.5}40%,100%{opacity:1}}
+@keyframes draw{0%{stroke-dashoffset:900}50%,100%{stroke-dashoffset:0}}
+rect:not(:first-of-type){animation:reveal 5s ease-in-out infinite}
+polyline{stroke-dasharray:900;animation:draw 7s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){rect,polyline{animation:none}}
+</style>
+<rect width="900" height="306" fill="#F6F3FD"/>
+<path d="M0 0H900" stroke="#211A38" stroke-width="7"/>
+<circle cx="38" cy="32" r="5" fill="#7C3AED"/>
+<text x="53" y="38" class="eyebrow mono">DEMAND PLANNING  /  STORE 10 · HARDWARE</text>
+<text x="32" y="85" class="head">By day three, the forecast settles near 0.385</text>
+<path d="M32 105H868" fill="none" stroke="#B8B9A9"/>
+<path d="M97 234.0H841" stroke="#C2C2B4" stroke-dasharray="3 5"/>
+<text x="80" y="240.0" text-anchor="end" class="tick mono">0.38</text>
+<path d="M97 200.0H841" stroke="#C2C2B4" stroke-dasharray="3 5"/>
+<text x="80" y="206.0" text-anchor="end" class="tick mono">0.40</text>
+<path d="M97 166.0H841" stroke="#C2C2B4" stroke-dasharray="3 5"/>
+<text x="80" y="172.0" text-anchor="end" class="tick mono">0.42</text>
+<polyline points="97.00,151.871 122.66,220.736 148.31,225.616 173.97,225.961 199.62,225.986 225.28,225.988 250.93,225.988 276.59,225.988 302.24,225.988 327.90,225.988 353.55,225.988 379.21,225.988 404.86,225.988 430.52,225.988 456.17,225.988 481.83,225.988 507.48,225.988 533.14,225.988 558.79,225.988 584.45,225.988 610.10,225.988 635.76,225.988 661.41,225.988 687.07,225.988 712.72,225.988 738.38,225.988 764.03,225.988 789.69,225.988 815.34,225.988 841.00,225.988" fill="none" stroke="#7962B7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="97.00" cy="151.871" r="4.5" fill="#7C3AED"/>
+<circle cx="122.66" cy="220.736" r="2.8" fill="#7962B7"/>
+<circle cx="148.31" cy="225.616" r="2.8" fill="#7962B7"/>
+<circle cx="173.97" cy="225.961" r="2.8" fill="#7962B7"/>
+<circle cx="199.62" cy="225.986" r="2.8" fill="#7962B7"/>
+<circle cx="225.28" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="250.93" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="276.59" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="302.24" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="327.90" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="353.55" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="379.21" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="404.86" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="430.52" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="456.17" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="481.83" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="507.48" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="533.14" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="558.79" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="584.45" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="610.10" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="635.76" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="661.41" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="687.07" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="712.72" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="738.38" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="764.03" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="789.69" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="815.34" cy="225.988" r="2.8" fill="#7962B7"/>
+<circle cx="841.00" cy="225.988" r="4.5" fill="#7C3AED"/>
+<text x="97" y="139.9" font-size="21" class="mono">0.428</text>
+<text x="841" y="213.0" text-anchor="end" font-size="21" class="mono">0.385</text>
+<text x="97" y="260" class="tick mono">12 AUG</text><text x="841" y="260" text-anchor="end" class="tick mono">10 SEP</text>
+<path d="M32 271H868" fill="none" stroke="#B8B9A9"/>
+<text x="32" y="296" class="tick">Forecast units per day · ARIMA(1,1,1) · August–September 2017</text>
+</svg>

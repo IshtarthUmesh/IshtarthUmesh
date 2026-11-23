@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="306" viewBox="0 0 900 306" role="img" aria-labelledby="t d">
+<title id="t">Late purchase-order lines by supplier</title>
+<desc id="d">The three suppliers with the most late purchase-order lines in the synthetic dataset: Thames Industrial Supply (1,746), Fujikawa Resources (611), Great Wall Containers (546). Together they account for 38% of 7,700 late lines.</desc>
+<style>
+text { font-family:Arial,Helvetica,sans-serif; fill:#211A38 }
+.mono { font-family:'Courier New',monospace; font-weight:700 }
+.eyebrow { font-size:17px;letter-spacing:1.6px;fill:#38625A }
+.head { font-family:Georgia,'Times New Roman',serif;font-size:34px }
+.tick { font-size:18px;fill:#49605B }
+
+@keyframes reveal{0%{opacity:.5}40%,100%{opacity:1}}
+@keyframes draw{0%{stroke-dashoffset:900}50%,100%{stroke-dashoffset:0}}
+rect:not(:first-of-type){animation:reveal 5s ease-in-out infinite}
+polyline{stroke-dasharray:900;animation:draw 7s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){rect,polyline{animation:none}}
+</style>
+<rect width="900" height="306" fill="#F6F3FD"/>
+<path d="M0 0H900" stroke="#211A38" stroke-width="7"/>
+<circle cx="38" cy="32" r="5" fill="#7C3AED"/>
+<text x="53" y="38" class="eyebrow mono">PROCUREMENT  /  SYNTHETIC DATA</text>
+<text x="32" y="85" class="head">Three suppliers account for 38% of late lines</text>
+<path d="M32 105H868" fill="none" stroke="#B8B9A9"/>
+<text x="32" y="147" font-size="24">Thames Industrial Supply</text>
+<rect x="331" y="131" width="417.00" height="18" fill="#7C3AED"/>
+<text x="761.0" y="147" class="mono" font-size="22">1,746</text>
+<text x="32" y="196" font-size="24">Fujikawa Resources</text>
+<rect x="331" y="180" width="145.93" height="18" fill="#7962B7"/>
+<text x="489.9" y="196" class="mono" font-size="22">611</text>
+<text x="32" y="245" font-size="24">Great Wall Containers</text>
+<rect x="331" y="229" width="130.40" height="18" fill="#7962B7"/>
+<text x="474.4" y="245" class="mono" font-size="22">546</text>
+<path d="M32 261H868" fill="none" stroke="#B8B9A9"/>
+<text x="32" y="287" class="tick">Late = delivered after the promised date. Across all suppliers: 7,700 late lines.</text>
+</svg>
